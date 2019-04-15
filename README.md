@@ -1,10 +1,10 @@
 # Webscraping-for-StanfordNLP
-This is the web scraping script for StanfordNLP 
+This is the web scraping script for StanfordNLP<br/> 
 Now, you need not download huge stanfordNLP data(around 1.9 GB) for simple tasks like POS tagging and NER
 
 # Installation 
 Just run <br/>
- ```bash install/install.sh```<br/>
+ ```bash installation/install.sh```<br/>
 This will install selenium in your python3 environment and will install geckodriver for accessing firefox through selenium
 
 # How to use 
