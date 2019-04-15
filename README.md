@@ -13,3 +13,5 @@ just add the text you want to process with the name of data.txt in Data Director
 Now the Code will store the data in 2d matrix and will print it,
 U can use the code as a snippet which store the stanford nlp table in a 2D matrix
 
+# Requirements 
+python 3 and firefox
